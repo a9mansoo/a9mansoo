@@ -18,6 +18,6 @@ Kubernetes enthusiast (CKAD), Github Actions / Gitlab / Jenkins wrangler, Contai
 ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 1. Languages: Python, Javascript (React), Groovy, C++ and Java
-2. Devops: Kubernetes, Github Actions, Jenkins, Gitlab, GCP, Docker
+2. Devops: Kubernetes, Github Actions, Jenkins, Gitlab, GCP, Docker, Terraform, AWS
 3. Monitoring: Grafana, InfluxDB, Loki
 
